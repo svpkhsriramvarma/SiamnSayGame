@@ -1,0 +1,46 @@
+* {
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+
+h1 ,p{
+    margin-top:2rem;
+}
+
+
+.btn {
+    border:10px solid black;
+    height:150px;
+    width:150px;
+    border-radius:20%;
+    margin:2rem;
+}
+
+.btn-container {
+    display:flex;
+    justify-content:center;
+}
+.red {
+    background-color:rgb(222, 104, 104);
+}
+
+.green {
+    background-color: rgb(139, 204, 9);
+}
+
+.yellow {
+    background-color:rgb(225, 225, 87);
+}
+
+.blue {
+    background-color:rgb(129, 129, 240);
+}
+
+.color {
+    background-color:white;
+}
+
+.userColor {
+    background-color:black;
+}
